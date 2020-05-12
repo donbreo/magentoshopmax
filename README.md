@@ -1,2 +1,3 @@
-# magentoshopmax
-Magento them for shopmax
+# Magento Themes
+
+Magento Custom themes folder
