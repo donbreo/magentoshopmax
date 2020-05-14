@@ -1,0 +1,2 @@
+chmod -R 755 /var/www/html/chic/magento_2_2_11/app/design/frontend
+chown -R chic:apache /var/www/html/chic/magento_2_2_11/app/design/frontend
