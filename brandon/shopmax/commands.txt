@@ -1,3 +1,4 @@
 chmod -R 755 /var/www/html/chic/magento_2_2_11/app/design/frontend
 chown -R chic:apache /var/www/html/chic/magento_2_2_11/app/design/frontend
 ssh -t root@128.199.217.73 -p 22 -i "/home/brandon/do_rsa.pem"
+php bin/magento setup:static-content:deploy
